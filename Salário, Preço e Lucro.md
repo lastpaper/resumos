@@ -8,7 +8,9 @@
 - Marx procura desmontar os argumentos de **Weston** sobre o aumento de salários, que tiinha opiniões impopulares.
 
 ## I - Produção e Salários
-
+  Weston apresentava os seguintes argumentos:
+1. o volume da produção nacional é algo de <ins>fixo</ins>, uma quantidade ou grandeza constante
+2. que o montante dos salários reais, isto é, dos salários medidos pelo volume de mercadorias que permitem adquirir, é também uma soma fixa, uma grandeza constante.
 ## II - Produção, Salários e Lucros
 ## III - Salários e Dinheiro
 ## IV - Oferta e Procura
