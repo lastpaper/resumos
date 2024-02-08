@@ -1,5 +1,5 @@
 # Salário, Preço e Lucro - Karl Marx
-![a](https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_09f7e96510dee2ffce87472cb9a4964f08b521f7.jpg)
+![](https://2.bp.blogspot.com/-Y5RqhjPVnX4/UUs5VvNuPUI/AAAAAAAABZU/YqSpDkNfrn0/s320/DSC0001192.jpg)
 > Informe pronunciado por Marx nos dias 20 a 27 de junho de **1865** nas sessões do **Conselho Geral da Associação Internacional dos Trabalhadores**;
 > O texto só foi publicado, efetivamente, em 1898 pela filha de Marx
 <hr> </hr>
