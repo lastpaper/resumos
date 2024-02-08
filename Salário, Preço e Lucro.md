@@ -1,10 +1,12 @@
 # Salário, Preço e Lucro - Karl Marx
 ![](https://2.bp.blogspot.com/-Y5RqhjPVnX4/UUs5VvNuPUI/AAAAAAAABZU/YqSpDkNfrn0/s320/DSC0001192.jpg)
-> Informe pronunciado por Marx nos dias 20 a 27 de junho de **1865** nas sessões do **Conselho Geral da Associação Internacional dos Trabalhadores**;
-> O texto só foi publicado, efetivamente, em 1898 pela filha de Marx
+
+`Informe pronunciado por Marx nos dias 20 a 27 de junho de 1865 nas sessões do Conselho Geral da Associação Internacional dos Trabalhadores`
+
+O texto só foi publicado, efetivamente, em 1898 pela filha de Marx
 <hr> </hr>
 
-> 💭 "Reina atualmente no Continente uma verdadeira **epidemia de greves** e se levanta um **clamor geral por aumentos de salários**"
+ > 💭 Reina atualmente no Continente uma verdadeira **epidemia de greves** e se levanta um **clamor geral por aumentos de salários**"
 
 - Marx desmonta os argumentos de **Weston**, que tiinha opiniões impopulares.
 
