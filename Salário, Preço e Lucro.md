@@ -60,8 +60,8 @@ Marx chama a atenção de Weston para a **Lei das Dez Horas**, promulgada em 184
 
 Esse raciocínio simples, no entanto, não encontra lugar nas argumentações de Weston, já que ele próprio **não concebe uma produtividade do trabalho que não seja fixa.** Weston não concebe aumento na oferta de bens.
 
-
 ## III - Salários e Dinheiro
+
 ## IV - Oferta e Procura
 ## V - Salários e Preços
 ## VI - Valor e Trabalho
