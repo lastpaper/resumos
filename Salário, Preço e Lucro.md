@@ -43,7 +43,7 @@ Marx o contrapõe, dizendo que a tigela da qual comem os operários contém todo
 Prossegue Marx,
 > 💭 "Graças a que artifício consegue o capitalista devolver um valor de 4 xelins por aquilo que vale 5? A alta dos preços das mercadorias que vende."
 
-Logo se questiona, as variações de preço das mercadorias dependem da vontade do capitalista?
+Logo se questiona: E as variações de preço das mercadorias dependem da vontade do capitalista?
 
 Marx entende que se alteradas as taxas de salários, _ceteris paribus_, haveria repercução no preço das mercadorias pela proporção real entre oferta e demanda.
 
