@@ -25,7 +25,7 @@ Mesmo se o volume da produção fosse algo _fixo_, nada impediria a existência 
 
 Dessa forma, não é possível afirmar que o montante de salários é uma soma fixa.
 
-Ademains, se os salários fossem uma quantia fixa, não haveria incentivo para que trabalhadores ou capitalistas buscassem mudanças salariais. No entanto, Marx demonstra a falácia dessa ideia ao observar que os capitalistas frequentemente buscam reduzir os salários, visando a maximização de seus lucros. Da mesma forma, os trabalhadores buscam aumentos salariais, que concretamente podem significar redução da taxa de lucro. Portanto, é compreensível que os trabalhadores busquem esses aumentos.
+Ademais, se os salários fossem uma quantia fixa, não haveria incentivo para que trabalhadores ou capitalistas buscassem mudanças salariais. No entanto, Marx demonstra a falácia dessa ideia ao observar que os capitalistas frequentemente buscam reduzir os salários, visando a maximização de seus lucros. Da mesma forma, os trabalhadores buscam aumentos salariais, que concretamente podem significar redução da taxa de lucro. Portanto, é compreensível que os trabalhadores busquem esses aumentos.
 
 ## II - Produção, Salários e Lucros
 
