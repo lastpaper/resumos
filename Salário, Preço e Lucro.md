@@ -17,7 +17,7 @@ O **Argumento de Weston** se baseava em duas premissas:
    
 A primeira afirmação é notoriamente falsa, já que o volume da produção cresce ano a ano. Não permanece em estado constante, mas varia continuamente.
 
-Mesmo se o volume da produção fosse algo fixo, nada impediria as _variações relativas_ de seus componentes: **salário** e **lucro**.
+Mesmo se o volume da produção fosse algo _fixo_, nada impediria a existência de _variações relativas_ de seus componentes: **salário** e **lucro**.
 | Salário | Lucro | Total |
 | ------- | ----- | ----- |
 |    2    |   6   |   8 	 |
@@ -25,7 +25,7 @@ Mesmo se o volume da produção fosse algo fixo, nada impediria as _variações 
 
 Dessa forma, não é possível afirmar que o montante de salários é uma soma fixa.
 
-Além disso, se o montante de salários fosse uma soma fixa, não poderá aumentar, nem dimiuir. Logo os trabalhadores seriam tolos por buscarem um aumento temporário de salários. No entanto, os capitalistas buscam o reverso, a baixa dos salários. Portanto, contrapõe Marx, os operários agem corretamente quando buscam arrancar aumentos de salários.
+Ademains, se os salários fossem uma quantia fixa, não haveria incentivo para que trabalhadores ou capitalistas buscassem mudanças salariais. No entanto, Marx demonstra a falácia dessa ideia ao observar que os capitalistas frequentemente buscam reduzir os salários, visando a maximização de seus lucros. Da mesma forma, os trabalhadores buscam aumentos salariais, que concretamente podem significar redução da taxa de lucro. Portanto, é compreensível que os trabalhadores busquem esses aumentos.
 
 ## II - Produção, Salários e Lucros
 
