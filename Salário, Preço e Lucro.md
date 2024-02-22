@@ -140,10 +140,42 @@ Se não consegue explicar o lucro sobre esta base, de nenhum outro modo consegui
 > Parece também paradoxal que a Terra gire ao redor do Sol e que a água seja formada por dois gases altamente inflamáveis. As verdades científicas serão sempre paradoxais, se julgadas pela experiência de todos os dias, a qual somente capta a aparência enganadora das coisas.
 
 ## VII - Força de trabalho
+Diz Marx:
+> "O que o operário vende não é diretamente o seu trabalho, mas a sua força de trabalho, cedendo temporariamente ao capitalista o direito de dispor dela"
+
+Qual a origem desse fenômeno em que alguns tem terras, maquinarias, matérias-primas e outros não possui nada além da sua força de trabalho? Alguns economistas chamam de "acumulação prévia ou originária", mas deveria se chamar __expropriação originária__. 
+- __acumulação originária:__ série de processos históricos que resultaram na decomposição da unidade originária existente entre o homem trabalhador e seus intrumentos de trabalho.
+
+> "Que é, pois, o valor da força de trabalho?
+>
+> Como o de toda outra mercadoria, este valor se determina pela quantidade de trabalho necessário para produzi-la. A força de trabalho de um homem consiste, pura e simplesmente, na sua individualidade viva"
+
+O valor da força de trabalho é determinado pelo valor dos artigos de primeira necessidade exigidos para produzir, desenvolver, manter e perpetuar a força de trabalho.
 ## VIII - A Produção da Mais-valia
+Aqui Marx apresenta uma discussão interessante pois ele distingue o valor da força de trabalho e o valor por ela criado. 
+Se um fiandeiro vende sua força de trabalho por 3 xélins diários, ou 18 semanais, vende pelo seu valor. Se em 6 horas este mesmo fiandeiro produz 3 xélins, o valor gerado é equivalente ao seu salário. Nesta situação não existe mais-valia. Nota-se aqui um problema.
+O fiandeiro deverá trabalhar mais horas para que o capitalista consiga extrair a mais-valia.
 ## IX - O valor do trabalho
+Se o preço de sua força de trabalho é 3 xelins, nos quais se materializam 6 horas de trabalho, e o fiandeiro trabalha 12 horas, este operário pensará que esses 3 xelins valem suas 12 horas de trabalho, mas na verdade estas 12 horas representem um valor de 6 xelins. Aqui se chega a um duplo resultado:
+
+1. O **valor da força de trabalho toma a aparência do valor do próprio trabalho.**
+2. Ainda que só se pague uma parte do trabalho diário do operário, enquanto a outra parte fica sem remuneração, e ainda que este trabalho não remunerado seja precisamente o fundo de que se forma a mais-valia ou lucro, **fica parecendo que todo o trabalho é trabalho pago.**
+
+Essa separação, trabalho pago e trabalho não-pago, era mais visível no feudalismo, com a _renda-trabalho_ em que o servo tirava dias da seman para trabalhar de graça na gleba do senhor e nos outros dias trabalha para si próprio em sua parcela. Mas isto se perdeu no capitalismo por um disfarce.
+
 ## X - O Lucro Obtém-se Vendendo uma Mercadoria pelo seu Valor
+Exemplo que Marx dá:
+|     Horas    |        Xelins        | 
+|  ----------  |     ----------       |
+|    6 horas   | 3 xelins (salário)   |
+|    6 horas   | 3 xelins (mais-valia)|
+|   12 horas   | 6 xelins (total)     |
+
+Neste exemplo, também, o produto final custa 18 xelins, __sendo 12 xelins o valor já previamente incorporado nas matérias-primas, maquinaria, etc.__
+Ao vender a mercadoria pelo seu valor, 18 xelins, o capitalista obtém, portanto, um valor de 3 xelins.
+Esses 3 xelins não foram obtidos por vender sua mercadoria a um preço que exceda o seu valor, mas por vendê-la por seu valor real. O valor de uma mercadoria se determina pela quantidade total de trabalho que encerra. (neste caso, 12 xelins de trabalho morto + 6 xelins de valor gerado)
 ## XI - As Diversas Partes em que se Divide a Mais-valia
+
 ## XII - A Relação Geral entre Lucros, Salários e Preços
 ## XIII - Casos Principais de Luta pelo Aumento de Salários ou Contra a sua Redução
 ## XIV - A Luta Entre o Capital e o Trabalho e seus Resultados
