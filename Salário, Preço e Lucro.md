@@ -129,7 +129,7 @@ Afirmava __Adam Smith__, em _A Riqueza das Nações_:
 
 Se a oferta e a procura se equilibram, os preços das mercadorias no mercado corresponderão, portanto, a seus preços naturais. E a oferta e demanda devem constantemente tender ao equilibrio.
 
-⭐É absurdo super que o lucro brota da majoração dos preços das mercadorias, ou do fato de que se vendam por um preço que considerevalmente o seu valor.
+⭐É absurdo supor que o lucro brota da majoração dos preços das mercadorias, ou do fato de que se vendam por um preço que considerevalmente o seu valor. (O valor nasce na produção e não na circulação)
 
 O absurdo se nota quando generelizamos. Se todos os comerciantes resolvessem aumentar o preço do seus produtos, ganhariam como vendedores, e perderiam como compradores.
 
