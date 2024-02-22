@@ -67,7 +67,7 @@ No segundo dia, diz Weston:
 > 💵 "Ao verificar-se uma alta geral dos salários em dinheiro, será necessária maior quantidade de **moeda** corrente"
 
 Porém, contrapõe Marx, se o processo de compra e venda se realizar continuamente, não é necessário maior oferta de moeda na economia. Marx traz o exemplo da Inglaterra, em que existia um mecanismo de pagamentos mais aperfeiçoado:
-> Graças à extensão e à concentração do sistema bancário, necessita-se de muito menos moeda para por em circulação a mesma quantidade de valores e realizar o mesmo ou um maior número de negócios
+> "Graças à extensão e à concentração do sistema bancário, __necessita-se de muito menos moeda__ para por em circulação a mesma quantidade de valores e realizar o mesmo ou um maior número de negócios"
 
 Esta é a circulação que performa nesse sistema:
 
@@ -84,7 +84,10 @@ A oferta e a procura só regulam as oscilações temporárias dos preços no mer
 ## V - Salários e Preços
 A ideia de Weston se traduz assim:
 > "os preços das mercadorias são determinados ou regulados pelos salários".
-Não é o salário que regula o preço da mercadoria, mas o tempo de trabalho socialmente necessário materializado na mercadoria.
+
+Há de se lembrar que salário é um nome especial para `preço da força de trabalho`. Se Weston diz que os salários regulam o preço das mercadorias, então se os salários sobem os preços deveriam subir. Bom, se o salário real são todas as mercadorias que se pode conseguir em troca, então o o preço das mercadorias também determinam o valor da força de trabalho. Portanto, chega-se a um circulo vicioso.
+
+Marx ironiza a frase "os salários determinam os preços das mercadorias", afirmando que é equivalente a dizer que _"o valor se determina pelo valor"_. Marx, ainda, menciona **Ricardo e Smith** como economistas contrários a esta visão antiquada de Weston. Isso se deve pelo fato de estes autores entenderem que o que determina o valor de uma mercadoria é o tempo de trabalho e não o valor de outra mercadoria.
 ## VI - Valor e Trabalho
 ## VII - Força de trabalho
 ## VIII - A Produção da Mais-valia
