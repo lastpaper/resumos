@@ -61,12 +61,30 @@ Marx chama a atenção de Weston para a **Lei das Dez Horas**, promulgada em 184
 Esse raciocínio simples, no entanto, não encontra lugar nas argumentações de Weston, já que ele próprio **não concebe uma produtividade do trabalho que não seja fixa.** Weston não concebe aumento na oferta de bens.
 
 ## III - Salários e Dinheiro
+`Discussão que reaparece no Capítulo 3 de O Capital`
+
 No segundo dia, diz Weston:
 > 💵 "Ao verificar-se uma alta geral dos salários em dinheiro, será necessária maior quantidade de **moeda** corrente"
 
+Porém, contrapõe Marx, se o processo de compra e venda se realizar continuamente, não é necessário maior oferta de moeda na economia. Marx traz o exemplo da Inglaterra, em que existia um mecanismo de pagamentos mais aperfeiçoado:
+> Graças à extensão e à concentração do sistema bancário, necessita-se de muito menos moeda para por em circulação a mesma quantidade de valores e realizar o mesmo ou um maior número de negócios
 
+Esta é a circulação que performa nesse sistema:
+
+```mermaid
+stateDiagram
+    operários --> vendedor
+    vendedor --> banqueiro
+    banqueiro --> fabricante
+    fabricante --> operários
+```
+Dessa forma, é possivel lidar com o valor e o volume da produção normalmente mesmo com uma baixa quantidade de moeda na economia, desde que exista um circuito contínuo e repetitivo que faça a moeda circular.
 ## IV - Oferta e Procura
+A oferta e a procura só regulam as oscilações temporárias dos preços no mercado. Mas não explicam jamais esse valor em si mesmo.
 ## V - Salários e Preços
+A ideia de Weston se traduz assim:
+> "os preços das mercadorias são determinados ou regulados pelos salários".
+Não é o salário que regula o preço da mercadoria, mas o tempo de trabalho socialmente necessário materializado na mercadoria.
 ## VI - Valor e Trabalho
 ## VII - Força de trabalho
 ## VIII - A Produção da Mais-valia
