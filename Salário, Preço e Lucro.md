@@ -125,6 +125,9 @@ Na Inglaterra se usava preços-ouro, enquanto no Continente se usava preços-pra
 > "Na medida em que é apenas a expressão em dinheiro do valor, o preço foi denominado _preço natural_, por Adam Smith, e _prix nécessaire_, pelos fisiocratas franceses"
 
 Afirmava __Adam Smith__, em _A Riqueza das Nações_:
+
+<img src="https://classic.exame.com/wp-content/uploads/2023/02/1LO_BANNER-SITE_ADAM_13-02_CAI.jpg?quality=70&strip=info&w=3" alt="drawing" width="400"/>
+
 > "O preço natural é... o preço central em torno do qual gravitam constantemente os preços das mercadorias. Circunstâncias diversas os podem manter erguidos muito acima desse ponto e, por vezes, precipitá-los um pouco abaixo. Quaisquer, porém, que sejam os obstáculos que os impeçam de se deter neste centro de repouso e estabilidade, eles tendem continuamente para lá."
 
 Se a oferta e a procura se equilibram, os preços das mercadorias no mercado corresponderão, portanto, a seus preços naturais. E a oferta e demanda devem constantemente tender ao equilibrio.
