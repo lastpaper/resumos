@@ -103,6 +103,42 @@ Uma mercadoria tem um valor por ser uma cristalização de um trabalho social.
 
 > 💭 "As quantidades correspondentesde mercadorias, que foram produzidas no mesmo tempo de trabalho, são iguais. Ou, dito de outro modo, o valor de uma mercadoria está para o valor de outra, assim como a quantidade de trabalho plasmada numa está para a quantidade de trabalho plasmada na outra."
 
+Marx prossegue combatendo a ideia de determinação do valor com base no salários. Pois o salário é completamente indiferente para determinar o Valor. Não faz diferença o quão alto é o salário do trabalhador, na verdade, inclusive, não faz diferença mesmo que seja trabalho escravo. É claro que os salários não podem ser maiores que os valores das mercadorias por eles produzidas, não podem ser maiores pois isto significaria falência. Mas o contrário pode acontecer, os salários podem ser inferiores em todos os graus imagináveis.
+
+Logo, os salários estarão limitados pelos produtos, mas os valores dos produtos não estão limitados pelos salários.
+
+Marx prossegue:
+> "Poderia parecer que, se o valor de uma mercadoria se determina pela quantidade de trabalho que se inverte na sua produção, __quanto mais preguiçoso ou inábil seja um operário, mais valiosa será a mercadoria__
+> (...)
+> Lembrai-vos que eu empregava a expressão 'trabalho social'"
+
+ A produção semre se dá num dado estado social e sob determinadas condições sociais médias. Quando o tear a vapor começou a competir com o tear manual, o pobre tecelão manual tinha que trabalhar 17 ou 18 horas, em vez de 9 ou 10 como antes. Mas suas mercadoria não valem 18 horas, mas 10.
+
+> "Se então a quantidade de trabalho socialmente necessário, materializado nas mercadorias, é o que determina o valor de troca destas, ao crescer a quantidade de trabalho exigível para produzir uma mercadoria aumenta necessariamente o seu valor e, vice-versa, diminuindo aquela, baixa este."
+
+Até aqui Marx só falou do __valor__, mas ele ele também aborda o __preço__.
+
+> "O preço é a expressão em dinheiro do valor"
+
+Na Inglaterra se usava preços-ouro, enquanto no Continente se usava preços-prata. O Valor do ouro, ou da prata, também se determina pela quantidade de trabalho necessário à sua extração. 
+
+> "Na medida em que é apenas a expressão em dinheiro do valor, o preço foi denominado _preço natural_, por Adam Smith, e _prix nécessaire_, pelos fisiocratas franceses"
+
+Afirmava __Adam Smith__, em _A Riqueza das Nações_:
+> "O preço natural é... o preço central em torno do qual gravitam constantemente os preços das mercadorias. Circunstâncias diversas os podem manter erguidos muito acima desse ponto e, por vezes, precipitá-los um pouco abaixo. Quaisquer, porém, que sejam os obstáculos que os impeçam de se deter neste centro de repouso e estabilidade, eles tendem continuamente para lá."
+
+Se a oferta e a procura se equilibram, os preços das mercadorias no mercado corresponderão, portanto, a seus preços naturais. E a oferta e demanda devem constantemente tender ao equilibrio.
+
+⭐É absurdo super que o lucro brota da majoração dos preços das mercadorias, ou do fato de que se vendam por um preço que considerevalmente o seu valor.
+
+O absurdo se nota quando generelizamos. Se todos os comerciantes resolvessem aumentar o preço do seus produtos, ganhariam como vendedores, e perderiam como compradores.
+
+Marx encessa o capítulo:
+> Portanto, para explicar o caráter geral do lucro não tereis outro remédio senão partir do teorema de que as mercadorias se vendem, em média, pelos seus verdadeiros valores e que os lucros se obtêm vendendo as mercadorias pelo seu valor, isto é, em proporção à quantidade de trabalho nelas materializado.
+Se não consegue explicar o lucro sobre esta base, de nenhum outro modo conseguirá explicá-lo.
+> Isto parece um paradoxo e contrário à observação de todos os dias.
+> Parece também paradoxal que a Terra gire ao redor do Sol e que a água seja formada por dois gases altamente inflamáveis. As verdades científicas serão sempre paradoxais, se julgadas pela experiência de todos os dias, a qual somente capta a aparência enganadora das coisas.
+
 ## VII - Força de trabalho
 ## VIII - A Produção da Mais-valia
 ## IX - O valor do trabalho
