@@ -89,6 +89,20 @@ Há de se lembrar que salário é um nome especial para `preço da força de tra
 
 Marx ironiza a frase "os salários determinam os preços das mercadorias", afirmando que é equivalente a dizer que _"o valor se determina pelo valor"_. Marx, ainda, menciona **Ricardo e Smith** como economistas contrários a esta visão antiquada de Weston. Isso se deve pelo fato de estes autores entenderem que o que determina o valor de uma mercadoria é o tempo de trabalho e não o valor de outra mercadoria.
 ## VI - Valor e Trabalho
+Nesse capítulo, Marx parece inaugurar raciocínios que viriam à ser discutidos em _O Capital_.
+
+> "O que é o valor da mercadoria?"
+> "Como se determina este valor?"
+
+A primeira vista, parece que o valor de uma mercadoria é sempre relativo, que exige uma relação comparativa com outra mercadoria. Mas dizer que um _quarter_ de trigo se troca por uma quantidade x de ferro, é dizer que ambos são iguais a __uma terceira coisa__, que não é trigo, nem ferro. Esta terceira coisa é a medida comum de ambos.
+
+- Qual a substância social comum a todas as mercadorias? É o __trabalho__.
+Mas não simplesmente trabalho, mas _trabalho social_. Aquele que produz um objeto para seu uso pessoal e direto, para consumi-lo, cria um produto, mas não uma mercadoria.
+
+Uma mercadoria tem um valor por ser uma cristalização de um trabalho social.
+
+> 💭 "As quantidades correspondentesde mercadorias, que foram produzidas no mesmo tempo de trabalho, são iguais. Ou, dito de outro modo, o valor de uma mercadoria está para o valor de outra, assim como a quantidade de trabalho plasmada numa está para a quantidade de trabalho plasmada na outra."
+
 ## VII - Força de trabalho
 ## VIII - A Produção da Mais-valia
 ## IX - O valor do trabalho
