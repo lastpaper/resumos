@@ -208,6 +208,12 @@ classDiagram
       }
 ```
 ## XII - A Relação Geral entre Lucros, Salários e Preços
+Marx entende que existe trabalho pretérito, isto é, valor cristalizado nas matérias-primas. E chama atenção para desconsidera-lo dos cálculos para entender o trabalho pago e não pago com base no valor gerado pelo trabalhador.
+
+Como o capitalista e o operário só podem dividir um valor limitado, quanto mais um recebe, menos o outro receberá e vice-versa. Uma parte aumenta nas mesma proporção que a outra diminui.
+
+Ao final, usando exemplo de uma fabrica, Marx esclarece que o preço de um fio é determinado pelo _valor total que encerra_ (isto é, valor pretérito + valor atual gerado) e não somente pelo valor gerado (que pode se dividir entre trabalho pago e não pago.
 ## XIII - Casos Principais de Luta pelo Aumento de Salários ou Contra a sua Redução
+
 ## XIV - A Luta Entre o Capital e o Trabalho e seus Resultados
  
