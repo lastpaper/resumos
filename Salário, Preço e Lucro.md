@@ -223,7 +223,7 @@ Mas se o preço em dinheiro do salário também não aumenta, não acompanha a s
 
 3. Marx ainda fala sobre as jornadas de trabalho e a leis que vigoraram até o século 18, em que exploravam ao máximo os limites físicos da força de trabalho, exigindo 12, 14 horas no trabalho. Crianças menores de 12 anos, inclusive, trabalhavam 12 horas por dia.
 
-Os operários ao buscr redução da jornada de trabalho não fazem mais que cumprir um dever para com eles mesmos.
+Os operários ao buscar redução da jornada de trabalho não fazem mais que cumprir um dever para com eles mesmos.
 
 > ♠ "O homem que não dispõe de nenhum tempo livre, cuja vida, afora as interrupções puramente físicas do sono, das refeições, etc., está toda ela absorvida pelo seu trabalho para o capitalista, é menos que uma besta de carga. É uma simples máquina, fisicamente destroçada e espiritualmente animalizada, para produzir riqueza alheia"
 
@@ -241,11 +241,11 @@ O fator físico constitui o limite mínimo do valor da força de trabalho. Mas, 
 
 É certo que a limitação da jornada de trabalho jamais conseguiria ter sido alcançada por acordos privados entre operários e capitalistas. Isto demonstra que, na luta puramente econômica, o capital é a parte mais forte.
 
-Quanto aos limites do valor do trabalho, sua fixação efetiva também depende sempre da oferta e da demanda. Nos Estados Unidos, por exemplo, a lei da oferta e demanda favorecia os operários. O nível dos saláros era relativamente maior. Isso ocorre, nestes países, devido a possibilidade do operário em deixar a fabrica do capitalista e ir viver em sua própria terra camponesa, enquanto trabalhadores independentes.
+Quanto aos limites do valor do trabalho, sua fixação efetiva também depende sempre da oferta e da demanda. Nos Estados Unidos, por exemplo, a lei da oferta e demanda favorecia os operários. O nível dos saláros era relativamente maior. Isso ocorre, nestes países, __devido a possibilidade do operário em deixar a fabrica do capitalista e ir viver em sua própria terra camponesa__, enquanto lavradores independentes.
 
 O capital na Inglaterra cresceu mais rapidamente que a população inglesa mas os salários não aumentaram. A parte do capital fixo (maquinaria, matérias-primas) crescem com maior rapidez que a outra parte do capital destinada ao salários.
 
-O próprio desenvolvimento da indústria moderna contribui para forçar a balança a favor do capitalista contra o operário.
+__O próprio desenvolvimento da indústria moderna contribui para forçar a balança a favor do capitalista contra o operário.__
 > a tendência geral da produção capitalista não é para elevar o nível médio normal do salário, mas, ao contrário, para fazê-lo baixar, __empurrando o valor do trabalho mais ou menos até seu limite mínimo.__
 
 Se a classe operária deixasse operar livremente este estado de coisas, veria-se degradadaa a uma massa informe de homens famintos e arrasados. Estas lutas da classe operária em torno do aumento de salários são episódios inseperáveis de todo o sistema assalariado.
