@@ -189,11 +189,20 @@ classDiagram
       
   
       class Valor{Gerado pelo trabalhador}
-      class Salário{parte do valor pago ao trabalhador}
-      class Mais_valia{restante do valor capturado pelo capitalista}
-      class Renda_da_Terra{parte da mais-valia paga pelo uso da terra(ao latifundiário)}
-      class Juro{parte da mais-valia paga pelo uso do dinheiro (ao banco)}
-      class Lucro{parte da mais-valia que resta nas mãos do capitalista}
+      class Salário{pago ao trabalhador}
+      class Mais_valia{capturado pelo capitalista}
+      class Renda_da_Terra{
+       paga pelo uso da terra
+       (ao latifundiário)
+      }
+      class Juro{
+        pago pelo uso do dinheiro
+        (ao banco)
+      }
+      class Lucro{
+       resta nas mãos
+       (do capitalista)
+      }
 ```
 ## XII - A Relação Geral entre Lucros, Salários e Preços
 ## XIII - Casos Principais de Luta pelo Aumento de Salários ou Contra a sua Redução
