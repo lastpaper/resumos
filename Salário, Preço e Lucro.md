@@ -234,8 +234,8 @@ Os operários ao buscr redução da jornada de trabalho não fazem mais que cump
 Marx demostrou ao longo de todo o texto que o aumento geral dos salários resultaria numa diminuição geral da taxa de lucro, sem afetar, porém, os preços médios das mercadorias.
 
  O valor da força de trabalho é formado por dois elementos:
-- O físico: o necessário para perpeturar sua existência física
-- O fator histórico e social: padrão de vida daquela sociedade
+- O __físico:__ o necessário para perpeturar sua existência física
+- O __fator histórico e social:__ padrão de vida daquela sociedade
 
 O fator físico constitui o limite mínimo do valor da força de trabalho. Mas, no que se refere ao lucro, não existe nenhuma lei que lhe fixe o mínimo. Pois por que mais que possa ser encontrado o salário mínimo, não é possível encontrado o salário máximo. E o lucro máximo corresponde ao mínimo físico dos salários.
 
@@ -255,6 +255,7 @@ Ao mesmo tempo a classe operária não deve exagerar os resultados dessas lutas 
 
 Em vez do lema:
 - "Um salário justo por uma jornada de trabalho justa!"
+
 deverá inscrever na sua bandeira 🚩:
 - "Abolição do sistema de trabalho assalariado!"
 
