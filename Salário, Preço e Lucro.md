@@ -179,6 +179,23 @@ Ao vender a mercadoria pelo seu valor, 18 xelins, o capitalista obtém, portanto
 Esses 3 xelins não foram obtidos por vender sua mercadoria a um preço que exceda o seu valor, mas por vendê-la por seu valor real. O valor de uma mercadoria se determina pela quantidade total de trabalho que encerra. (neste caso, 12 xelins de trabalho morto + 6 xelins de valor gerado)
 ## XI - As Diversas Partes em que se Divide a Mais-valia
 
+```mermaid
+classDiagram
+      Valor --|> Salário
+      Valor --|> Mais_valia
+      Mais_valia --|> Renda_da_Terra
+      Mais_valia --|> Juro
+      Mais_valia --|> Lucro
+      
+  
+      class Valor{Gerado pelo trabalhador}
+      class Salário{parte do valor pago ao trabalhador}
+      class Mais_valia{restante do valor capturado pelo capitalista}
+      class Renda_da_Terra{parte da mais-valia paga pelo uso da terra(ao latifundiário)}
+      class Juro{parte da mais-valia paga pelo uso do dinheiro (ao banco)}
+      class Lucro{parte da mais-valia que resta nas mãos do capitalista}
+```
 ## XII - A Relação Geral entre Lucros, Salários e Preços
 ## XIII - Casos Principais de Luta pelo Aumento de Salários ou Contra a sua Redução
 ## XIV - A Luta Entre o Capital e o Trabalho e seus Resultados
+ 
