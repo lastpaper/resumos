@@ -231,4 +231,4 @@ Os operários ao buscr redução da jornada de trabalho não fazem mais que cump
 
 
 ## XIV - A Luta Entre o Capital e o Trabalho e seus Resultados
- 
+ Marx demostrou ao longo de todo o texto que o aumento geral dos salários resultaria numa diminuição geral da taxa de lucro, sem afetar, porém, os preços médios das mercadorias.
