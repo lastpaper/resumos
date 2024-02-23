@@ -214,6 +214,10 @@ Como o capitalista e o operário só podem dividir um valor limitado, quanto mai
 
 Ao final, usando exemplo de uma fabrica, Marx esclarece que o preço de um fio é determinado pelo _valor total que encerra_ (isto é, valor pretérito + valor atual gerado) e não somente pelo valor gerado (que pode se dividir entre trabalho pago e não pago.
 ## XIII - Casos Principais de Luta pelo Aumento de Salários ou Contra a sua Redução
+o valor da força de trabalho é determinado pelo valor dos artigos de primeira necessidade, se o salário não sobe ou não fica em proporções suficientes para compensar o aumento do preço dos artigos de primeira necessidade, o preço do trabalho descerá abaixo do valor do trabalho e o padrão de vida do trabalhador piorará.
+O valor dos artigos de primeira necessidade e dos salários podem até permanecer invariáveis, ainda que o preço deles em dinheiro sofra alteração. A descoberta de jazidas mais abundantes de ouro, por exemplo, reduziu o valor do ouro e aumentou _nominalmente_ o preço das mercadorias. O que antes custava uma onça, agora custa duas onças. Mas se o preço em dinheiro do salário também não aumenta, quem ganha é o Capital.
+> 💸 "Toda a história do passado prova que sempre que se produz uma depreciação do dinheiro, os capitalistas se aprestam para tirar proveito da conjuntura e enganar os operários"
+
 
 ## XIV - A Luta Entre o Capital e o Trabalho e seus Resultados
  
