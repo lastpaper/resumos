@@ -214,9 +214,20 @@ Como o capitalista e o operário só podem dividir um valor limitado, quanto mai
 
 Ao final, usando exemplo de uma fabrica, Marx esclarece que o preço de um fio é determinado pelo _valor total que encerra_ (isto é, valor pretérito + valor atual gerado) e não somente pelo valor gerado (que pode se dividir entre trabalho pago e não pago.
 ## XIII - Casos Principais de Luta pelo Aumento de Salários ou Contra a sua Redução
-o valor da força de trabalho é determinado pelo valor dos artigos de primeira necessidade, se o salário não sobe ou não fica em proporções suficientes para compensar o aumento do preço dos artigos de primeira necessidade, o preço do trabalho descerá abaixo do valor do trabalho e o padrão de vida do trabalhador piorará.
-O valor dos artigos de primeira necessidade e dos salários podem até permanecer invariáveis, ainda que o preço deles em dinheiro sofra alteração. A descoberta de jazidas mais abundantes de ouro, por exemplo, reduziu o valor do ouro e aumentou _nominalmente_ o preço das mercadorias. O que antes custava uma onça, agora custa duas onças. Mas se o preço em dinheiro do salário também não aumenta, quem ganha é o Capital.
+1. o valor da força de trabalho é determinado pelo valor dos artigos de primeira necessidade, se o salário não sobe ou não fica em proporções suficientes para compensar o aumento do preço dos artigos de primeira necessidade, o preço do trabalho descerá abaixo do valor do trabalho e o padrão de vida do trabalhador piorará.
+
+2. O valor dos artigos de primeira necessidade e dos salários podem até permanecer invariáveis, ainda que o preço deles em dinheiro sofra alteração. A descoberta de jazidas mais abundantes de ouro, por exemplo, reduziu o valor do ouro e aumentou _nominalmente_ o preço das mercadorias. O que antes custava uma onça, agora custa duas onças.
+
+Mas se o preço em dinheiro do salário também não aumenta, não acompanha a subida de preços, quem ganha é o Capital.
 > 💸 "Toda a história do passado prova que sempre que se produz uma depreciação do dinheiro, os capitalistas se aprestam para tirar proveito da conjuntura e enganar os operários"
+
+3. Marx ainda fala sobre as jornadas de trabalho e a leis que vigoraram até o século 18, em que exploravam ao máximo os limites físicos da força de trabalho, exigindo 12, 14 horas no trabalho. Crianças menores de 12 anos, inclusive, trabalhavam 12 horas por dia.
+
+Os operários ao buscr redução da jornada de trabalho não fazem mais que cumprir um dever para com eles mesmos.
+
+> ♠ "O homem que não dispõe de nenhum tempo livre, cuja vida, afora as interrupções puramente físicas do sono, das refeições, etc., está toda ela absorvida pelo seu trabalho para o capitalista, é menos que uma besta de carga. É uma simples máquina, fisicamente destroçada e espiritualmente animalizada, para produzir riqueza alheia"
+
+4. A produção capitalista é movida por fases e cíclos periódicos. Passa por fases de calma, animação crescente, prosperidade, superprodução, crise e estagnação. Durante a fase de prosperidade, na qual o capitalista obtém lucros extraordinários, seria uma absurdo exigir que o operário renunciasse ao direto de ser compensado. 
 
 
 ## XIV - A Luta Entre o Capital e o Trabalho e seus Resultados
