@@ -243,4 +243,5 @@ O fator físico constitui o limite mínimo do valor da força de trabalho. Mas, 
 
 Quanto aos limites do valor do trabalho, sua fixação efetiva também depende sempre da oferta e da demanda. Nos Estados Unidos, por exemplo, a lei da oferta e demanda favorecia os operários. O nível dos saláros era relativamente maior. Isso ocorre, nestes países, devido a possibilidade do operário em deixar a fabrica do capitalista e ir viver em sua própria terra camponesa, enquanto trabalhadores independentes.
 
-Apesar de
+Apesar de nos últimos anos o capital inglês ter crescido mais rapidamente o do que a população inglesa, os salários nem por isso registram um aumento maior.
+A parte do capital formada por capital fixo: maquinaria, matérias-primas, meios de produção de todo gêero.
