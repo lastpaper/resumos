@@ -179,6 +179,7 @@ Ao vender a mercadoria pelo seu valor, 18 xelins, o capitalista obtém, portanto
 Esses 3 xelins não foram obtidos por vender sua mercadoria a um preço que exceda o seu valor, mas por vendê-la por seu valor real. O valor de uma mercadoria se determina pela quantidade total de trabalho que encerra. (neste caso, 12 xelins de trabalho morto + 6 xelins de valor gerado)
 ## XI - As Diversas Partes em que se Divide a Mais-valia
 `Discussão que reaparece no Livro 3 de O Capital`
+
 Em termos sumários, essa é a distribuição possível da mais-valia.
 
 ```mermaid
