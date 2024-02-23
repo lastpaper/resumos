@@ -3,7 +3,7 @@
 
 `Informe pronunciado por Marx nos dias 20 a 27 de junho de 1865 nas sessões do Conselho Geral da Associação Internacional dos Trabalhadores`
 
-O texto, no entanto, só foi publicado em 1898
+O texto, no entanto, só foi publicado em 1898.
 <hr> </hr>
 
  > 💭 "Reina atualmente no Continente uma verdadeira **epidemia de greves** e se levanta um **clamor geral por aumentos de salários**"
@@ -25,15 +25,15 @@ Mesmo se o volume da produção fosse algo _fixo_, nada impediria a existência 
 
 Dessa forma, não é possível afirmar que o montante de salários é uma soma fixa.
 
-Ademais, se os salários fossem uma quantia fixa, não haveria incentivo para que trabalhadores ou capitalistas buscassem mudanças salariais. No entanto, Marx demonstra a falácia dessa ideia ao observar que os capitalistas frequentemente buscam reduzir os salários, visando a maximização de seus lucros. Da mesma forma, os trabalhadores buscam aumentos salariais, que concretamente podem significar redução da taxa de lucro. Portanto, é compreensível que os trabalhadores busquem esses aumentos.
+Ademais, se os salários fossem uma quantia fixa, não haveria incentivo para que trabalhadores ou capitalistas buscassem mudanças salariais. No entanto, Marx expõe a falácia ao observar que os capitalistas frequentemente buscam reduzir os salários, visando a maximização de seus lucros. Da mesma forma, os trabalhadores buscam aumentos salariais, que resultam na redução da taxa de lucro. Portanto, é compreensível que os trabalhadores busquem esses aumentos.
 
 ## II - Produção, Salários e Lucros
 
-Weston diz que o `aumento salarial de 4 xelins para 5 xelins` é meramente _nominal_. O capitalista continua entregando 4 xelins _realmente_, pois o montante dos salários é fixo.
+Weston diz que o aumento salarial de 4 xelins para 5 xelins é meramente _nominal_. O capitalista continua entregando 4 xelins _reais_, pois o montante dos salários é fixo.
 
 Pois bem. Se o limite do montante dos salários está fixado por uma lei econômica, independente da vontade do capitalista e do operário, faltava a Weston demonstrar essa lei.
 
-Mas, ao contrário, se o limite dado à soma dos salários (neste caso 4 xelins) depende simplesmente da vontade do capitalista, trata-se de um limite arbirtrário. Logo, tanto pode ___variar___ em favor do capitalista ou em favor da classe operária. Portanto, não se pode dizer que é fixo.
+Mas, ao contrário, se o limite dado à soma dos salários (neste caso 4 xelins, mas poderia ser 2 ou 3 ou 6) depende simplesmente da vontade do capitalista, trata-se de um limite arbirtrário. Logo, tanto pode ___variar___ em favor do capitalista ou em favor da classe operária. Portanto, não se pode dizer que é fixo.
 
 ilustra Weston:
 > 🥣 "Se uma tigela contém determinada quantidade de sopa, destinada a determinado número de pessoas, a quantidade de sopa não aumentará se aumentar o tamanho das colheres"
@@ -61,7 +61,7 @@ Marx chama a atenção de Weston para a **Lei das Dez Horas**, promulgada em 184
 Esse raciocínio simples, no entanto, não encontra lugar nas argumentações de Weston, já que ele próprio **não concebe uma produtividade do trabalho que não seja fixa.** Weston não concebe aumento na oferta de bens.
 
 ## III - Salários e Dinheiro
-`Discussão que reaparece no Capítulo 3 de O Capital`
+`Discussão que reaparece no Livro 1 do Capital`
 
 No segundo dia, diz Weston:
 > 💵 "Ao verificar-se uma alta geral dos salários em dinheiro, será necessária maior quantidade de **moeda** corrente"
@@ -231,7 +231,7 @@ Os operários ao buscr redução da jornada de trabalho não fazem mais que cump
 
 
 ## XIV - A Luta Entre o Capital e o Trabalho e seus Resultados
- Marx demostrou ao longo de todo o texto que o aumento geral dos salários resultaria numa diminuição geral da taxa de lucro, sem afetar, porém, os preços médios das mercadorias.
+Marx demostrou ao longo de todo o texto que o aumento geral dos salários resultaria numa diminuição geral da taxa de lucro, sem afetar, porém, os preços médios das mercadorias.
 
  O valor da força de trabalho é formado por dois elementos:
 - O físico: o necessário para perpeturar sua existência física
@@ -243,5 +243,23 @@ O fator físico constitui o limite mínimo do valor da força de trabalho. Mas, 
 
 Quanto aos limites do valor do trabalho, sua fixação efetiva também depende sempre da oferta e da demanda. Nos Estados Unidos, por exemplo, a lei da oferta e demanda favorecia os operários. O nível dos saláros era relativamente maior. Isso ocorre, nestes países, devido a possibilidade do operário em deixar a fabrica do capitalista e ir viver em sua própria terra camponesa, enquanto trabalhadores independentes.
 
-Apesar de nos últimos anos o capital inglês ter crescido mais rapidamente o do que a população inglesa, os salários nem por isso registram um aumento maior.
-A parte do capital formada por capital fixo: maquinaria, matérias-primas, meios de produção de todo gêero.
+O capital na Inglaterra cresceu mais rapidamente que a população inglesa mas os salários não aumentaram. A parte do capital fixo (maquinaria, matérias-primas) crescem com maior rapidez que a outra parte do capital destinada ao salários.
+
+O próprio desenvolvimento da indústria moderna contribui para forçar a balança a favor do capitalista contra o operário.
+> a tendência geral da produção capitalista não é para elevar o nível médio normal do salário, mas, ao contrário, para fazê-lo baixar, __empurrando o valor do trabalho mais ou menos até seu limite mínimo.__
+
+Se a classe operária deixasse operar livremente este estado de coisas, veria-se degradadaa a uma massa informe de homens famintos e arrasados. Estas lutas da classe operária em torno do aumento de salários são episódios inseperáveis de todo o sistema assalariado.
+
+Ao mesmo tempo a classe operária não deve exagerar os resultados dessas lutas diárias.
+> "Não deve esquecer-se de que luta contra os efeitos, mas não contra as causas"; "que aplica paliativos, mas não cura a doença"
+
+Em vez do lema:
+- "Um salário justo por uma jornada de trabalho justa!"
+deverá inscrever na sua bandeira 🚩:
+- "Abolição do sistema de trabalho assalariado!"
+
+### Marx enqunto encerra com a seguite resolução:
+
+1. Uma alta geral da taxa de salários acarretaria uma baixa da taxa geral de lucro, mas não afetaria, em linhas gerais, os preços das mercadorias.
+2. A tendência geral da produção capitalista não é para elevar o padrão médio de salários, mas para reduzi-lo.
+3. Os sindicatos trabalham bem como centro de resistência contra as usurpações do capital. Mas, são deficientes, de modo geral, por se limitarem a uma luta contra os efeitos do sistema existente, em lugar de ao mesmo tempo se esforçarem para mudá-lo, em lugar de empregarem suas forças organizadas como alavanca para a emancipação final da classe operária, isto é, para a __abolição definitiva do sistema de trabalho assalariado.__
