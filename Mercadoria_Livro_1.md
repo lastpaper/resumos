@@ -6,7 +6,7 @@
 <hr> </hr>
 
 ##  1. Os dois fatores da mercadoria: Valor de uso e valor (substância do valor, grandeza do valor)
-> 💭 "A mercadoria é, antes de tudo, um objeto externo, uma coisa, a qual pelas suas propriedades satisfaz necessidades humanas de qualquer espécie. A natureza dessas necessidades, se elas se originam do estômago ou da fantasia, não altera nada na coisa"
+> 💭 "A mercadoria é, antes de tudo, um objeto externo, uma coisa, a qual pelas suas propriedades **satisfaz necessidades humanas** de qualquer espécie. A natureza dessas necessidades, **se elas se originam do estômago ou da fantasia, não altera nada na coisa.**"
 
 ##  2. Duplo caráter do trabalho representado nas mercadorias
 ##  3. A forma de valor ou o valor de troca
