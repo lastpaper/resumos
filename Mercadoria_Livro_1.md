@@ -2,7 +2,7 @@
 
 <img src="https://jrmcoaching.com.br/wp-content/uploads/2022/03/o-que-e-commodity.jpg" alt="drawing" width="400"/>
 
-`Capítulo que pertence ao Volume I de O Capital - Karl Marx (1867)`
+`Capítulo que pertence ao Volume I de O Capital, Seção 1 Mercadoria e Dinheiro - Karl Marx (1867)`
 <hr> </hr>
 
 ##  1. Os dois fatores da mercadoria: Valor de uso e valor (substância do valor, grandeza do valor)
