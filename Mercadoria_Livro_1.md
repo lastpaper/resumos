@@ -4,19 +4,19 @@
 ##  2. Duplo caráter do trabalho representado nas mercadorias
 ##  3. A forma de valor ou o valor de troca
 ### A) Forma simples, singular ou acidental de valor
-#### 1) Os dois pólos da expressão de valor: forma relativa de valor e forma equivalente
-#### 2) A forma relativa de valor 
+#### _1) Os dois pólos da expressão de valor: forma relativa de valor e forma equivalente_
+#### _2) A forma relativa de valor_ 
 ##### a) Conteúdo da forma relativa de valor 
 ##### b) Determinação quantitativa da forma de valor relativa
-#### 3) A forma equivalente 
-#### 4) O conjunto da forma simples de valor
+#### _3) A forma equivalente_ 
+#### _4) O conjunto da forma simples de valor_
 ### B) Forma de valor total ou desdobrada 
-#### 1) A forma relativa de valor desdobrada 
-#### 2) A forma equivalente particular
-#### 3) Insuficiências da forma de valor total ou desdobrada
+#### _1) A forma relativa de valor desdobrada_
+#### _2) A forma equivalente particular_
+#### _3) Insuficiências da forma de valor total ou desdobrada_
 ### C) Forma geral de valor 
-#### 1) Caráter modificado da forma valor 
-#### 2) Relação de desenvolvimento da forma valor relativa e da forma equivalente 
-#### 3) Transição da forma valor geral para a forma dinheiro 
+#### _1) Caráter modificado da forma valor_ 
+#### _2) Relação de desenvolvimento da forma valor relativa e da forma equivalente_ 
+#### _3) Transição da forma valor geral para a forma dinheiro_ 
 ### D) Forma dinheiro
 ## 4. O caráter fetichista da mercadoria e seu segredo 
