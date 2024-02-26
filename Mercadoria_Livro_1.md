@@ -1,7 +1,10 @@
 # Cap I. A mercadoria
-![](https://jrmcoaching.com.br/wp-content/uploads/2022/03/o-que-e-commodity.jpg)
+
+<img src="https://jrmcoaching.com.br/wp-content/uploads/2022/03/o-que-e-commodity.jpg" alt="drawing" width="400"/>
+
 `Capítulo que pertence ao Volume I de O Capital - Karl Marx (1867)`
 <hr> </hr>
+
 ##  1. Os dois fatores da mercadoria: Valor de uso e valor (substância do valor, grandeza do valor)
 ##  2. Duplo caráter do trabalho representado nas mercadorias
 ##  3. A forma de valor ou o valor de troca
