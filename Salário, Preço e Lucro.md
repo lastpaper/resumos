@@ -112,7 +112,7 @@ Marx prossegue:
 > (...)
 > Lembrai-vos que eu empregava a expressão 'trabalho social'"
 
- A produção semre se dá num dado estado social e sob determinadas condições sociais médias. Quando o tear a vapor começou a competir com o tear manual, o pobre tecelão manual tinha que trabalhar 17 ou 18 horas, em vez de 9 ou 10 como antes. Mas suas mercadoria não valem 18 horas, mas 10.
+ A produção sempre se dá num dado estado social e sob determinadas condições sociais médias. Quando o tear a vapor começou a competir com o tear manual, o pobre tecelão manual tinha que trabalhar 17 ou 18 horas, em vez de 9 ou 10 como antes. Mas suas mercadoria não valem 18 horas, mas 10.
 
 > "Se então a quantidade de trabalho socialmente necessário, materializado nas mercadorias, é o que determina o valor de troca destas, ao crescer a quantidade de trabalho exigível para produzir uma mercadoria aumenta necessariamente o seu valor e, vice-versa, diminuindo aquela, baixa este."
 
