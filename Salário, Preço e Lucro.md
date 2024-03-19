@@ -164,7 +164,7 @@ Se o preço de sua força de trabalho é 3 xelins, nos quais se materializam 6 h
 1. O **valor da força de trabalho toma a aparência do valor do próprio trabalho.**
 2. Ainda que só se pague uma parte do trabalho diário do operário, enquanto a outra parte fica sem remuneração, e ainda que este trabalho não remunerado seja precisamente o fundo de que se forma a mais-valia ou lucro, **fica parecendo que todo o trabalho é trabalho pago.**
 
-Essa separação, trabalho pago e trabalho não-pago, era mais visível no feudalismo, com a _renda-trabalho_ em que o servo tirava dias da seman para trabalhar de graça na gleba do senhor e nos outros dias trabalha para si próprio em sua parcela. Mas isto se perdeu no capitalismo por um disfarce.
+Essa separação, trabalho pago e trabalho não-pago, era mais visível no feudalismo, com a _renda-trabalho_ em que o servo tirava dias da semana para trabalhar de graça na gleba do senhor e nos outros dias trabalha para si próprio em sua parcela. Mas isto se perdeu no capitalismo por um disfarce.
 
 ## X - O Lucro Obtém-se Vendendo uma Mercadoria pelo seu Valor
 Exemplo que Marx dá:
