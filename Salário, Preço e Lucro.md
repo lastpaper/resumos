@@ -248,7 +248,7 @@ O capital na Inglaterra cresceu mais rapidamente que a população inglesa mas o
 __O próprio desenvolvimento da indústria moderna contribui para forçar a balança a favor do capitalista contra o operário.__
 > a tendência geral da produção capitalista não é para elevar o nível médio normal do salário, mas, ao contrário, para fazê-lo baixar, __empurrando o valor do trabalho mais ou menos até seu limite mínimo.__
 
-Se a classe operária deixasse operar livremente este estado de coisas, veria-se degradadaa a uma massa informe de homens famintos e arrasados. Estas lutas da classe operária em torno do aumento de salários são episódios inseperáveis de todo o sistema assalariado.
+Se a classe operária deixasse operar livremente este estado de coisas, veria-se degradada a uma massa informe de homens famintos e arrasados. Estas lutas da classe operária em torno do aumento de salários são episódios inseperáveis de todo o sistema assalariado.
 
 Ao mesmo tempo a classe operária não deve exagerar os resultados dessas lutas diárias.
 > "Não deve esquecer-se de que luta contra os efeitos, mas não contra as causas"; "que aplica paliativos, mas não cura a doença"
