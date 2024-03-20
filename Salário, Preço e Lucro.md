@@ -181,32 +181,8 @@ Esses 3 xelins não foram obtidos por vender sua mercadoria a um preço que exce
 `Discussão que reaparece no Livro 3 de O Capital`
 
 Em termos sumários, essa é a distribuição possível da mais-valia.
+![image](https://github.com/lastpaper/resumos/assets/159182926/f14dce65-9b84-4778-afd1-8c81304c9ba2)
 
-```mermaid
-classDiagram
-      Valor --|> Salário
-      Valor --|> Mais_valia
-      Mais_valia --|> Renda_da_Terra
-      Mais_valia --|> Juro
-      Mais_valia --|> Lucro
-      
-  
-      class Valor{Gerado pelo trabalhador}
-      class Salário{pago ao trabalhador}
-      class Mais_valia{capturado pelo capitalista}
-      class Renda_da_Terra{
-       paga pelo uso da terra
-       (ao latifundiário)
-      }
-      class Juro{
-        pago pelo uso do dinheiro
-        (ao banco)
-      }
-      class Lucro{
-       resta nas mãos
-       (do capitalista)
-      }
-```
 ## XII - A Relação Geral entre Lucros, Salários e Preços
 Marx entende que existe trabalho pretérito, isto é, valor cristalizado nas matérias-primas. E chama atenção para desconsidera-lo dos cálculos para entender o trabalho pago e não pago com base no valor gerado pelo trabalhador.
 
