@@ -14,14 +14,16 @@ O conceito de Modo de produção permite compreender uma **totalidade social**.
 
 Todo Modo de Produção é constituído por:
 
-1. Uma estrutura Global, formada por por três estruturas regionais:
-  - econômica
-  - jurídico-política (Leis, Estado, etc)
-  - ideológico (ideias, costumes)
+1. Uma **Estrutura Global**, formada por por três estruturas regionais:
+  - _econômica_
+  - _jurídico-política (Leis, Estado, etc)_
+  - _ideológico (ideias, costumes)_
   
-2. Dominância de uma das estruturas regionais sobre as outras.
+2. **Dominância** de uma das estruturas regionais sobre as outras.
   - Nem sempre o aspecto econômico é _dominante_! Marx dá o exemplo da dominância do Catolicismo na Idade Média e da Política em Atenas e Roma.
-3. A estrutura econômica é sempre determinante em última instância.
+    
+3. A estrutura econômica é sempre **determinante** em última instância.
+  - 
     
 ## O conceito de formação social
 ## Qual é o objeto de O Capital?
