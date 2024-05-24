@@ -23,12 +23,27 @@ Todo Modo de Produção é constituído por:
   - Nem sempre o aspecto econômico é _dominante_! Marx dá o exemplo da dominância do Catolicismo na Idade Média e da Política em Atenas e Roma.
     
 3. A estrutura econômica é sempre **determinante** em última instância.
-4. O Modo de Produção é caracterizado por sua contínua **Reprodução** das suas condições de existência.
-> O modo de produção capitalista, por exemplo, ao mesmo tempo que produz bens materiais numa forma muito determinada, que implica a divisão dos homens dessa totalidade social em capitalistas e operários que _dá origem a toda uma ideologia que favorece esse tipo de produção e a uma forma de poder que a defende e estimula_, vai continuamente reproduzindo suas condições de produção. 
+4. O Modo de Produção é caracterizado por sua contínua **reprodução** das suas condições de existência.
+> O modo de produção capitalista, por exemplo, ao mesmo tempo que produz bens materiais numa forma muito determinada, que implica a divisão dos homens dessa totalidade social em capitalistas e operários que _dá origem a toda uma ideologia que favorece esse tipo de produção e a uma forma de poder que a defende e estimula_, vai continuamente reproduzindo suas condições de produção.
 
-5. 
+O núcleo estruturador do modo de produção são as __relações de produção__.
 
 ## O conceito de formação social
+- MODO DE PRODUÇÃO: Objeto abstrasto, totalidade social pura, "ideal".
+- FORMAÇÃO SOCIAL: Realidade concreta, complexa, impura.
+
+Numa mesma sociedade podem-se encontrar diferentes tipos de relações de produção.
+A Rússia analisada por Lenin, em _"O Imposto em espécies"_, é um exemplo da combinação de diferentes sistemas econômicos:
+Período que corresponde, mais ou menos, ao período que vai de 1917-1929):
+
+- economia campesina, patriarcal, i.e., natural numa grande medida;
+- pequena produção mercantil (compreende a maior parte dos camponeses que vendiam trigo)
+- capitalismo privado
+- capitalismo de Estado
+- socialismo.
+  
+
+
 ## Qual é o objeto de O Capital?
 ## O Materialismo Histórico: uma teoria científica
 ## Teoria geral e teorias regionais
