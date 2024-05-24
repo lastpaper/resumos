@@ -29,8 +29,8 @@ Todo Modo de Produção é constituído por:
 O núcleo estruturador do modo de produção são as __relações de produção__.
 
 ## O conceito de formação social
-- MODO DE PRODUÇÃO: Objeto abstrasto, totalidade social pura, "ideal".
-- FORMAÇÃO SOCIAL: Realidade concreta, complexa, impura.
+- **MODO DE PRODUÇÃO:** Objeto abstrasto, totalidade social pura, "ideal".
+- **FORMAÇÃO SOCIAL:** Realidade concreta, complexa, impura.
 
 Numa mesma sociedade podem-se encontrar diferentes tipos de relações de produção.
 A Rússia analisada por Lenin, em _"O Imposto em espécies"_, é um exemplo da combinação de diferentes sistemas econômicos:
@@ -42,7 +42,20 @@ Período que corresponde, mais ou menos, ao período que vai de 1917-1929):
 - capitalismo de Estado
 - socialismo.
   
+Outro exemplo é a França analisada por Marx, em *"O Dezoito Brumário"*:
+- feudal
+- patriarcal
+- pequeno-comércio
+- capitalista
 
+Estas diversas relações de produção que coexistem não coexistem de forma isolada! Uma delas ocupa uma situação dominante, impondo às demais suas próprias leis de funcionamento.
+
+> "Em todas as formas de sociedade é uma determinada produção e as relações geradas por ela que determinam todas as outras produções e relações geradas por elas, sua posição e importância"
+> _Introdução à Crítica da Economia Política - Karl Marx_
+
+A dominação de um tipo determinado de relações de produção não faz desaparecer de forma automática todas as outras relações de produção, podendo estas continuar existindo, ainda que modificadas e subordinadas às relações de produção dominantes.
+Afirmar que o sistema capitalista mundial domina não significa negar que existiam e que ainda existem, de forma muito difundida, relações pré-capitalistas de produção.
+  
 
 ## Qual é o objeto de O Capital?
 ## O Materialismo Histórico: uma teoria científica
