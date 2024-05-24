@@ -23,8 +23,11 @@ Todo Modo de Produção é constituído por:
   - Nem sempre o aspecto econômico é _dominante_! Marx dá o exemplo da dominância do Catolicismo na Idade Média e da Política em Atenas e Roma.
     
 3. A estrutura econômica é sempre **determinante** em última instância.
-  - 
-    
+4. O Modo de Produção é caracterizado por sua contínua **Reprodução** das suas condições de existência.
+> O modo de produção capitalista, por exemplo, ao mesmo tempo que produz bens materiais numa forma muito determinada, que implica a divisão dos homens dessa totalidade social em capitalistas e operários que _dá origem a toda uma ideologia que favorece esse tipo de produção e a uma forma de poder que a defende e estimula_, vai continuamente reproduzindo suas condições de produção. 
+
+5. 
+
 ## O conceito de formação social
 ## Qual é o objeto de O Capital?
 ## O Materialismo Histórico: uma teoria científica
