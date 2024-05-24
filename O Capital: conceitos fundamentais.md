@@ -56,7 +56,7 @@ Estas diversas relações de produção que coexistem não coexistem de forma is
 A dominação de um tipo determinado de relações de produção não faz desaparecer de forma automática todas as outras relações de produção, podendo estas continuar existindo, ainda que modificadas e subordinadas às relações de produção dominantes.
 Afirmar que o sistema capitalista mundial domina não significa negar que existiam e que ainda existem, de forma muito difundida, relações pré-capitalistas de produção.
   
-
+As relações de produção dominantes também determinam o caráter geral da super-estrutura da sociedade em questão.
 ## Qual é o objeto de O Capital?
 ## O Materialismo Histórico: uma teoria científica
 ## Teoria geral e teorias regionais
