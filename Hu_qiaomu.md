@@ -30,3 +30,13 @@ __1900__: Guerra das oito potencias contra a china
 
 __1914__: Anexação da província de Shandong pelo Japão
 
+## Formação do movimento revolucionário
+__1851-1864__: Guerra Camponesa Revolucionária
+__1900__: Governo feudal capitula frente ao imperialismo
+__1911__: Revolução Burguesa 
+__1912__: República da China
+
+__1919__: Ano de virada. A Revolução democrática deixa de ser de velho tipo e passa a ser de Novo Tipo.
+__1920__:  Mao Tsetung organiza grupo de estudos sobre marxismo. e formou a Liga da Juventude Socialista
+__1921__: Criação do Partido Comunista da China. Mao Tsetung era delegado do partido da província de Hunan.
+__1922__: Manifesto do partido infelizmente não estabeleceu que a revolução democrática seria dirigida pelo proletariado
