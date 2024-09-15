@@ -64,4 +64,29 @@ __lições__: I. A revolução democrática na China atual deveria ser realizada
 II. O problema central da direção da classe operária na revolução democrática na China era a questão camponesa; somente quando os camponeses pudessem ser conquistados como um aliado fundamental da revolução, a revolução poderia se tornar vitoriosa;
 III. A principal forma da revolução na China só poderia ser a revolução armada se opondo à contrarrevolução armada
 
-_
+
+# 2
+A ascensão da influência política e econômica do imperialismo estadunidense sobre o pais era cada vez mais notável.
+Após trair a revolução, Chiang kai-shek não representava os interesses da burguesia nacional, mas sim do imperialismo, do feudalismo e da burguesia compradora.
+Chiang Kai-shek desenvolveu o que mais tarde foi chamado de __capitalismo burocrático__. A brutalidade era concentrada nas cidades. A esperança residia em dirigir as lutas camponesas. O partido faz um balanço critico sobre a primeira guerra civil revolucionária. Clandestinidade na cidade e fortalecer lutas no campo.
+
+__1927__: 7 de agosto, reunião emergencial, retifica o capitualcionismo de Chen tu-hsiu e o retira da direção. Putchismo esquerdista, chu chiu-pai quis manter ofensiva quando era pra recuar.
+
+__1928__: 6º Congresso do partido. Erros de Chen Tu-hsiu são examinados detalhadamente. Chen tu-hsiu não reconhece seus erros. Ele e seus apoiadores defendiam que, com a vitó-
+ria burguesa, a revolução democrática burguesa chinesa já havia sido encerrada, que a burguesia já havia se estabelecido e agora consolidaria seu governo, e que desta forma, o proletariado chinês deveria abrir mão da luta revolucionária, dar atenções às atividades legais e esperar pela futura revolução socialista a ser lançada no futuro. Mao não compareceu ao 6º congresso, mas é eleito como membro do comitê central
+
+__1929__: Chen tu-hsiu colabora com trotskistas em atividades antipartido e é expulso.
+
+__1930__: Exército Vermelho cresceu por todo o país (cerca de  60 mil homens), dos quais 30 mil eram de Kiangsi. No final de 1930, Chiang kai-shek temendo, evviou 7 tropas (cerca de 100 mil homens) para matar o exército vermelho. Nisso, uma divisão e meia de Chiang Kai-shek é varrida e o comandante de campo de chiang kai-shek é capturado.
+
+__1931__: Chiang Kai-shek envia 200 mil homens para a segunda campanha de cerco e aniquilamento. Mas foi mais uma vez derrotado. O exército vermelho capturou mais de 30 mil homens como prisioneiros de guerra e confiscou mais de 20 mil armas do inimigo. Em julho, Chiang Kai-shek iniciou uma terceira campanha, tendo ele próprio como comandante e acompanhado por conselheiros militares britânicos, japoneses e alemães. dirigiu 300 mil soldados. E, mais uma vez, o ataque foi repelido.
+Exército vemelho era dirigido pelo camarada Hsu Hsiang-Chien e Ho Lung. Influenciados pelas vitórias do exercito vermelho. Mais de 10 mil tropas do exército da 26ª rota do koumintang, que haviam sido enviadas para atacar o exército vermelho, ingressam no exército vermelho. Em 18 de setembro de 1931, o Japão, se aprovaitando da crise de 1929, invadem o nordeste da CHina. Chiang kai-shek n faz nada, então rapidamente o japão toma todo o nordeste da china. Chiang Kai-shek se dedica apenas ao terror fascista de matar comunistas
+
+A desintegração política nas fileiras do Kuomintang e de suas tropas se iniciou.
+
+__1932__: Japão invade Xangai. Exército da 19a Rota do Kuomintang, sob a influência do movimento antijaponês do povo de Xangai, resistiu heroicamente à invasão das tropas japonesas em Xangai
+
+__1933__: ocupa província de jehol e parte de Chahar. Os líderes deste exército, junto a membros do Kuomintang, fundaram um Governo Popular na província de Fukien que se opunha a Chiang Kai-shek e cooperava com os comunistas. Em maio de 1933, Feng Yu-hsiang, em cooperação com os comunistas, organizou o Exército Aliado Popular Antijaponês em Kalgan, na província de Chahar.
+
+__1935__: ocupa leste da província de Hopei.
+
