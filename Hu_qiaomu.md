@@ -38,5 +38,12 @@ __1912__: República da China
 
 __1919__: Ano de virada. A Revolução democrática deixa de ser de velho tipo e passa a ser de Novo Tipo.
 __1920__:  Mao Tsetung organiza grupo de estudos sobre marxismo. e formou a Liga da Juventude Socialista
-__1921__: Criação do Partido Comunista da China. Mao Tsetung era delegado do partido da província de Hunan.
-__1922__: Manifesto do partido infelizmente não estabeleceu que a revolução democrática seria dirigida pelo proletariado
+__1921__: Criação do Partido Comunista da China. Mao Tsetung era delegado do partido da província de Hunan. Chen Tu-hsiu é eleito para dirigir os órgãos centrais do Partido. Mas Chen Tu-hsiu não era um bom marxista.
+__1922__: Manifesto do partido infelizmente não estabeleceu que a revolução democrática seria dirigida pelo proletariado. Partido ingressa na Komintern. Período de muitas greves e mobilização operária nas cidades. 300 mil operários participarão de mais de 100 greves durante 13 meses.
+__1923__: Reação pesada contra o movimento operário. Wu Pei-fu convoca suas tropas para matar 40 operários ferroviários e tem centenas de feridos.  Terceiro congresso do partido, Sun Yat-sen, postura democrática, então há possibilidade de aliança com o Koumintang. Terceiro congresso também critica o capitulacionismo de Chen Tu-hsiu de que a revolução democrática deve ser dirigida pela burguesia e que o trabalho deve ser feito pelo koumintang. Critica também a "política das portas fechadas" de Chang Koutao, desvio de esquerda, ele defendia que o partido comunista não deveria cooperar com o koumintang. Esse terceiro congresso no entanto não prestou devida atenção ao camponeses e a questão das forças armadas revolucionárias. Nesse congresso, Mao tsetung é eleito para o comitê central do partido.
+__1924__: Primeiro Congresso do Koumintang, postura anti-imperialista e anti-feudal
+__1924 a 1927__: insuficiências são aprofundadas pelos erros de Chen Tu-hsiu
+__1925__: 4º Cingresso do PCCh. Sun Yat-sen morre em março. __Movimento trinta de maio__ surge após assassinato de grevistas em Xangai pela polícia britânica.
+de 900 para 58 mil membros.
+__1926__: Exército Revolucionário Nacional. Expedição do Norte. Ocupa Hankou. Chiang Kai-shek organiza conspiração anticomunista e antisovietica. Chen Tu-hsiu faz concessões oportunistas e satisfaz demandas reacionarias de limitar a atividade do partido comunista dentro do exército e dos órgaos dirigentes do koumintang
+__1927__: Exército Expedicionário ocupa Hankou. Partido permanece sem linha correta. Negligência sobre o controle das forças armadas. O poder do exército experidionário do norte estava nas mãos do oficiais do exército de velho tipo. Principalmente nas mãos de Chiang Kai-shekm representante da ala de direita do Koumintang. Chen Tu-hsiu era a linha oportunista de direita.
