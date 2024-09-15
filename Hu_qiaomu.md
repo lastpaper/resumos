@@ -18,10 +18,15 @@ __4 de maio de 1919__: revolta contra o tratado versalhes que deu esse territór
 ![image](https://github.com/user-attachments/assets/6a6ce8e9-95ca-4793-8aaf-539ac11dae1c)
 
 ## Guerras:
-__Guerra do Ópio, 1840__: forças armadas imperialistas da Inglaterra invadem a China. Obrigam a china a assinar o __Tratado de Nanquim__
-__1857__: Guerra anglo-francesa contra a china
+__Guerra do Ópio, 1840__: forças armadas imperialistas da Inglaterra invadem a China. Obrigam a china a assinar o __Tratado de Nanquim__ 
+
+__1857__: Guerra anglo-francesa contra a china (Kowloon)
+
 __1884__: Guerra sino-francesa
+
 __1894__: Guerra sino-japonesa
+
 __1900__: Guerra das oito potencias contra a china
+
 __1914__: Anexação da província de Shandong pelo Japão
 
