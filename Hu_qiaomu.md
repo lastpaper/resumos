@@ -32,18 +32,32 @@ __1914__: Anexação da província de Shandong pelo Japão
 
 ## Formação do movimento revolucionário
 __1851-1864__: Guerra Camponesa Revolucionária
+
 __1900__: Governo feudal capitula frente ao imperialismo
+
 __1911__: Revolução Burguesa 
+
 __1912__: República da China
 
 __1919__: Ano de virada. A Revolução democrática deixa de ser de velho tipo e passa a ser de Novo Tipo.
+
 __1920__:  Mao Tsetung organiza grupo de estudos sobre marxismo. e formou a Liga da Juventude Socialista
+
 __1921__: Criação do Partido Comunista da China. Mao Tsetung era delegado do partido da província de Hunan. Chen Tu-hsiu é eleito para dirigir os órgãos centrais do Partido. Mas Chen Tu-hsiu não era um bom marxista.
+
 __1922__: Manifesto do partido infelizmente não estabeleceu que a revolução democrática seria dirigida pelo proletariado. Partido ingressa na Komintern. Período de muitas greves e mobilização operária nas cidades. 300 mil operários participarão de mais de 100 greves durante 13 meses.
+
 __1923__: Reação pesada contra o movimento operário. Wu Pei-fu convoca suas tropas para matar 40 operários ferroviários e tem centenas de feridos.  Terceiro congresso do partido, Sun Yat-sen, postura democrática, então há possibilidade de aliança com o Koumintang. Terceiro congresso também critica o capitulacionismo de Chen Tu-hsiu de que a revolução democrática deve ser dirigida pela burguesia e que o trabalho deve ser feito pelo koumintang. Critica também a "política das portas fechadas" de Chang Koutao, desvio de esquerda, ele defendia que o partido comunista não deveria cooperar com o koumintang. Esse terceiro congresso no entanto não prestou devida atenção ao camponeses e a questão das forças armadas revolucionárias. Nesse congresso, Mao tsetung é eleito para o comitê central do partido.
+
 __1924__: Primeiro Congresso do Koumintang, postura anti-imperialista e anti-feudal
+
 __1924 a 1927__: insuficiências são aprofundadas pelos erros de Chen Tu-hsiu
+
 __1925__: 4º Cingresso do PCCh. Sun Yat-sen morre em março. __Movimento trinta de maio__ surge após assassinato de grevistas em Xangai pela polícia britânica.
 de 900 para 58 mil membros.
-__1926__: Exército Revolucionário Nacional. Expedição do Norte. Ocupa Hankou. Chiang Kai-shek organiza conspiração anticomunista e antisovietica. Chen Tu-hsiu faz concessões oportunistas e satisfaz demandas reacionarias de limitar a atividade do partido comunista dentro do exército e dos órgaos dirigentes do koumintang
-__1927__: Exército Expedicionário ocupa Hankou. Partido permanece sem linha correta. Negligência sobre o controle das forças armadas. O poder do exército experidionário do norte estava nas mãos do oficiais do exército de velho tipo. Principalmente nas mãos de Chiang Kai-shekm representante da ala de direita do Koumintang. Chen Tu-hsiu era a linha oportunista de direita.
+
+__1926__: Exército Revolucionário Nacional. Expedição do Norte. Ocupa Hankou. Chiang Kai-shek organiza conspiração anticomunista e antisovietica. Chen Tu-hsiu faz concessões oportunistas e satisfaz demandas reacionarias de limitar a atividade do partido comunista dentro do exército e dos órgaos dirigentes do koumintang. "Análise das Classes na Sociedade Chinesa" de Mao, nesse texto ele defende a direção do proletariado industrial. Mao se opõe tanto ao oportunismo de direta de Chen Tsu-Hsiu (reconhecia a burguesia e o koumintang e não reconhecia os camponeses), quanto ao oportunismo de esquerda de Chang Kuotao (reconheciam o proletariado somente, e não os camponeses). "Sobre as Perspectivas da Revolução na China" de Stalin
+
+__1927__: Exército Expedicionário ocupa Hankou. Partido permanece sem linha correta. Negligência sobre o controle das forças armadas. O poder do exército experidionário do norte estava nas mãos do oficiais do exército de velho tipo. Principalmente nas mãos de Chiang Kai-shekm representante da ala de direita do Koumintang. Chen Tu-hsiu era a linha oportunista de direita. "Relatório Sobre uma Investigação Feita no Hunan a Respeito do Movimento Camponês" de Mao, documento que valoriza a participação dos camponeses. 24 de março de 1927 -> Exército expedicionário do Norte que ocupou a cidade de Nanquim é surpreendido com imperlistas que fazem intervenção contra a Revolução CHhinesa . Navios de guerra britânicos, estadunidenses, japoneses, franceses e italianos borbadeam. 12 de abril -> Chiang Kai-shek faz um golpe contrarrevolucionário, massacra inumeros operários e membros do partido comunista e declara abertamente oposição aos comunistas. Koumintang de Hankou anuncia campanha punitiva contra kai-shek. 5º CONGRESSO o partido comunista, Mao é excluido da direção do congresso por chen tu-hsiu, incluindo retirada de seu direito a voto.
+
+_
