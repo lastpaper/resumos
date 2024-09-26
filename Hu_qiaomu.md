@@ -88,5 +88,35 @@ __1932__: Japão invade Xangai. Exército da 19a Rota do Kuomintang, sob a influ
 
 __1933__: ocupa província de jehol e parte de Chahar. Os líderes deste exército, junto a membros do Kuomintang, fundaram um Governo Popular na província de Fukien que se opunha a Chiang Kai-shek e cooperava com os comunistas. Em maio de 1933, Feng Yu-hsiang, em cooperação com os comunistas, organizou o Exército Aliado Popular Antijaponês em Kalgan, na província de Chahar.
 
-__1935__: ocupa leste da província de Hopei.
+__1935__: ocupa leste da província de Hopei. Nesse mesmo ano, Mao tsetung se torna o brilhante lider.
 
+faccção esquerdista Wang Ming e Po Ku -> se opõs a guerra de guerrilha e insistiam na tomara das cidades pelo exército vermelho. tbm se opunham a trabalhos legais. Defenderam políticas aventureiras que isolaram as massas
+
+
+LONGA MARCHA: 12,8 mil km percorridos, cruzando montanhas e estepes de gelo. Chegou ao norte de senshi e uniu unidades de lá.
+"Resistir ao Japão e Salvar a China". Mao combateu os argumentos esquerdistas que iam contra a frente única anti-imperialista, q usava a ala esquerda da burguesia nacional, para combater o imperialismo japones
+
+Incidente de SIan: chiang kai-shek preso
+
+# 3
+__1937__: URSS tratado de não-agressão com China e envio de apoio militar e financeiro
+a camarilha de Chiang Kai-shek, repre-
+sentante dos grandes latifundiários e da grande burguesia,
+era a principal camarilha de capitalistas compradores da Grã-
+Bretanha e dos EUA. Durante muitos anos de seu governo re-
+acionário, se opuseram teimosamente ao povo, se negaram a
+lutar contra o Japão e concentraram todos os seus esforços
+em derrotar o Partido Comunista.
+Chiang Kai-shek acabou por se mobilizar para a resis-
+tência contra o Japão pelas seguintes razões. Primeiro, a pres-
+são do povo não deixou para nenhuma escolha a não ser re-
+sistir, pois caso contrário todo o povo chinês e muitas forças
+antijaponesas organizadas levantar-se-iam para lutar contra
+o Japão a sua própria maneira e, desta maneira, ele impossi-
+bilitaria a manutenção do seu governo. Segundo, a invasão
+imperialista japonesa em toda a China ameaçava diretamente
+seu regime e a propriedade da classe latifundiária e da bur-
+guesia. Assim, as contradições entre Chiang Kai-shek e o im-
+perialismo japonês se tornaram irreconciliáveis. Terceiro, a
+existência de contradições entre o imperialismo anglo-esta-
+dunidense e o imperialismo japonês.
