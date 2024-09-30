@@ -156,3 +156,26 @@ socialismo.
 
 
 De setembro de 1937 a março de 1945, travou mais de 115 mil grandes e pequenos combates contra o inimigo, matou ou feriu 960 mil japoneses e tropas títeres, capturou 280 mil homens e forçou 100 mil japoneses e tropas títeres a se render.
+
+# 3
+com exceção de Taiwan, que estava ainda
+ocupada pelos remanescentes do Kuomintang e dos agresso-
+res estadunidenses, a China inteira foi libertada.
+De julho de 1946 até junho de 1950, o Exército Popular
+de Libertação da China aniquilou mais de 8,07 milhões de ho-
+mens das forças armadas do Kuomintang e capturou 54,4 mil
+peças de artilharia, 319 mil metralhadoras, mil tanques e car-
+ros blindados, 20 mil veículos, além de grandes quantidades
+de outras armas e equipamentos.
+Em 1o de outubro de 1949, o Governo Popular Central
+da República Popular foi fundado.
+
+Em 14 de fevereiro de
+1950, com a participação pessoal do Presidente Mao Tsé-tung
+e do Generalíssimo Stalin, do Premiê e Primeiro Ministro Chu
+En-lai e do Ministro das Relações Exteriores, Andrey Vy-
+shinsky, foi assinado o histórico Tratado Sino-Soviético de
+Amizade, Aliança e Ajuda Mútua, o Acordo entre a China e a
+União Soviética sobre a Ferrovia Chinesa de Changchun, Port
+Arthur e Dairen e o Acordo entre a China e a União Soviética
+da Garantia de Créditos para a República Popular da China
