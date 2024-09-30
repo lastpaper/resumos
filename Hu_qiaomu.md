@@ -120,3 +120,39 @@ guesia. Assim, as contradições entre Chiang Kai-shek e o im-
 perialismo japonês se tornaram irreconciliáveis. Terceiro, a
 existência de contradições entre o imperialismo anglo-esta-
 dunidense e o imperialismo japonês.
+
+__1938:__ Em outubro de 1938, uma Sexta Sessão Plenária am-
+pliada do Comitê Central indicou que o Sexto Congresso Par-
+tidário seria realizado em Yenan. Esta reunião sancionou a
+linha do Birô Político Central liderado pelo camarada Mao
+Tsé-tung, quanto à Guerra de Resistência e à Frente Única Na-
+cional Antijaponesa. A Sessão Plenária criticou a errônea po-
+lítica conciliadora na questão da Frente Única e decidiu que
+todo o Partido deveria organizar a luta armada popular contra
+os japoneses, sem restrições e de forma independente. Deci-
+diu que o principal trabalho do Partido seria realizado nas zo-
+nas de guerra e na retaguarda do inimigo, criticou as ideias
+erradas que colocavam expectativas da vitória na Guerra de
+Resistência no exército do Kuomintang e confiavam o destino
+do povo ao movimento legal sob o governo reacionário do
+Kuomintang.
+
+__1940:__ Em 1940, no terceiro aniversário da Guerra de Resis-
+tência, o Exército Popular, que estava lutando contra o Japão
+sob a liderança do Partido Comunista da China, cresceu para
+500 mil tropas, em comparação com as 40 mil existentes três
+anos antes.
+A Nova Democracia, que foi publicado em janeiro
+de 1940. Tomando como ponto de partida a história chinesa
+e a história mundial, A Nova Democracia explicou que, após a
+Revolução de Outubro na Rússia, a direção da Revolução Chi-
+nesa deveria caber à classe operária; que a revolução deveria
+ser dividida em duas etapas – a etapa de Nova Democracia a etapa socialista –, e que o futuro sob a direção da classe
+operária seria certamente o socialismo; que durante o período
+da Revolução de Nova Democracia, o Partido deveria adotar
+os programas político, econômico e cultural da Nova Demo-
+cracia, que eram diferentes tanto do capitalismo quanto do
+socialismo.
+
+
+De setembro de 1937 a março de 1945, travou mais de 115 mil grandes e pequenos combates contra o inimigo, matou ou feriu 960 mil japoneses e tropas títeres, capturou 280 mil homens e forçou 100 mil japoneses e tropas títeres a se render.
